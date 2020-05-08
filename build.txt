@@ -1,0 +1,9 @@
+﻿author = Fargowilta
+version = 1.6
+displayName = Fargo's Banner Boost
+includeSource = false
+hideCode = false
+hideResources = false
+includePDB = false
+languageVersion = 6
+buildIgnore = .git/*, .vs/*, Builds/*, build.txt, *.csproj, *.sln, *.csproj.user

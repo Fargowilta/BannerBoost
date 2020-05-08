@@ -1,0 +1,7 @@
+﻿NEW UPDATE 1.6
+-Added Config to set the kills needed per level and the max level you can reach 
+-The actual max level is still 20, you can just limit your max bonuses by selecting a lower level cap
+
+Banner Boost is an RPG mod of sorts that powers you up against enemies as you defeat more of them.
+Every 50 (by default) Kills lets you take reduced damage and deal more damage to them.
+At the max level of 20, you are totally immune to them and always kill them in one hit.

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerBoost", "BannerBoost.csproj", "{E293D9BC-5B62-437E-A85C-C266955155FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Client|x86 = Client|x86
+		Server|x86 = Server|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E293D9BC-5B62-437E-A85C-C266955155FC}.Client|x86.ActiveCfg = Client|x86
+		{E293D9BC-5B62-437E-A85C-C266955155FC}.Client|x86.Build.0 = Client|x86
+		{E293D9BC-5B62-437E-A85C-C266955155FC}.Server|x86.ActiveCfg = Server|x86
+		{E293D9BC-5B62-437E-A85C-C266955155FC}.Server|x86.Build.0 = Server|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E843BF3-A8C0-4958-BC75-4CA810E49A44}
+	EndGlobalSection
+EndGlobal
